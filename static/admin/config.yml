@@ -1,8 +1,7 @@
 backend:
-    name: github
-    repo: diogorodrigues/iceberg-gatsby-multilang
+    name: git-gateway
     branch: master
-    site_domain: https://vibrant-goodall-e79608.netlify.com
+
 
 publish_mode: editorial_workflow
 media_folder: 'static/assets/img'
